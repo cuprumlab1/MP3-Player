@@ -173,6 +173,3 @@ Partition scheme Huge APP means no over-the-air updates.
 Credits
 ESP32-audioI2S by schreibfaul1
 U8g2 by olikraus
-Credits
-ESP32-audioI2S by schreibfaul1
-U8g2 by olikraus
